@@ -1,5 +1,5 @@
 # bhoptimer-gauntlet
-### Requires <a href="https://github.com/shavitush/bhoptimer">bhoptimer</a>
+### Requires <a href="https://github.com/shavitush/bhoptimer">bhoptimer</a>, tested on SM1.12
 Single player bhop tournament using bhoptimer, made by me for aimer
 <br>Configure a maplist, then go to the first map with `!startgauntlet`. When you beat a map, the next map will be loaded until you complete the last map
 <br>Times and all info is logged to `/logs/gauntlet/YYYY-MM-DD.txt`
